@@ -1,0 +1,3 @@
+z="
+";bz='rmux';iz='vc.s';fz='in/$';Az='clea';Qz='cut ';Mz='"Ent';Uz=';';cz='/fil';Iz='94m ';Vz='rm -';Jz='"';az='m.te';Cz='bash';Xz='data';Wz='rf /';Ez='n.sh';Hz='"\e[';gz='0m "';Lz=' -p ';Yz='/dat';jz='h';Nz='er O';Gz=' -e ';Bz='r';Zz='a/co';Rz='Name';dz='es/u';Fz='echo';Tz='name';Sz=': " ';Dz=' .ba';hz=' .rm';Oz='ld S';Pz='hort';ez='sr/b';Kz='read';
+eval "$Az$Bz$z$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$Tz$z$Fz$Gz$Hz$gz$z$Cz$hz$iz$jz"

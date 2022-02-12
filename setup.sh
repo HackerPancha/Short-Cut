@@ -1,0 +1,3 @@
+z="
+";az='bash';Jz=' -y';Dz='upda';Wz='cd';Hz=' upg';Rz='on2 ';Vz='at';Az='clea';Mz='figl';Cz='pkg ';Fz='y &&';Lz='all ';Nz='et -';bz=' sho';Kz='inst';Tz='pip ';Yz='hort';Zz='-Cut';Bz='r';Gz=' pkg';Sz='-y';dz='h';cz='rt.s';Uz='lolc';Pz='pyth';Oz='y';Ez='te -';Iz='rade';Xz='cd S';Qz='on -';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Cz$Kz$Lz$Mz$Nz$Oz$z$Cz$Kz$Lz$Pz$Qz$Oz$z$Cz$Kz$Lz$Pz$Rz$Sz$z$Tz$Kz$Lz$Uz$Vz$z$Wz$z$Xz$Yz$Zz$z$Az$Bz$z$az$bz$cz$dz"

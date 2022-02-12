@@ -1,0 +1,3 @@
+z="
+";Nz='/fil';Bz='r';tz='p 3';Az='clea';Tz='xw /';pz=' Hel';Pz='sr/b';Sz='d +r';rz='0m"';cz='x/fi';Uz='in/.';Cz='bash';Qz='in';Iz='data';gz='echo';mz='ype ';Zz='ta/c';Fz='cp -';jz='"\e[';Kz='a/co';Dz=' .ba';nz='For ';Mz='rmux';fz='bin/';bz='ermu';Yz='a/da';Ez='n.sh';sz='slee';oz='Tool';lz='ow T';Lz='m.te';Oz='es/u';az='om.t';hz=' " "';uz=' .ma';qz='p\e[';Xz='hlp ';iz=' -e ';wz='h';Jz='/dat';Wz='mv /';dz='les/';vz='in.s';Hz='lp /';ez='usr/';kz='36mN';Rz='chmo';Gz='r .h';Vz='hlp';
+eval "$Az$Bz$z$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$z$Rz$Sz$Tz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Uz$Vz$z$Wz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Uz$Xz$Jz$Yz$Zz$az$bz$cz$dz$ez$fz$Vz$z$gz$hz$z$gz$iz$jz$kz$lz$mz$Xz$nz$oz$pz$qz$rz$z$gz$hz$z$sz$tz$z$Az$Bz$z$Cz$uz$vz$wz"
